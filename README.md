@@ -7,3 +7,7 @@ Project 1:
 Project 2:
 
 <img src="https://github.com/VoinaLiviu/Autodesk-Inventor/blob/main/project2.png">
+
+Project 3:
+
+<img src="https://github.com/VoinaLiviu/Autodesk-Inventor/blob/main/project3.png">
